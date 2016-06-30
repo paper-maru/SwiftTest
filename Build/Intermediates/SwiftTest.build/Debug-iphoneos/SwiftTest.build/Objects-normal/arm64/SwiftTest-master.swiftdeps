@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "655fce98625344dddcb72e913af69db4"
+build_time: [520583283, 291958000]
+inputs:
+  "/Users/imaiyuuta/Desktop/SwiftTest/SwiftTest/ViewController.swift": [520583065, 0]
+  "/Users/imaiyuuta/Desktop/SwiftTest/SwiftTest/AppDelegate.swift": [520583065, 0]
